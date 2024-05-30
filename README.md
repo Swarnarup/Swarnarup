@@ -1,3 +1,5 @@
+![logo](https://github.com/Swarnarup/Swarnarup/blob/main/bhBannar3.gif)
+
 <h1 align="center">Hi 👋, I'm Swarnarup Bhunia</h1>
 <h3 align="center">Software and Front End developer</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.webp?cid=790b7611wd4s1k1baampkdvlukoc5hp9ja4z9kbnzqkxzuui&ep=v1_gifs_search&rid=giphy.webp&ct=g">
