@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19WRKCrOULMvYqRbHiTU3MnKPn_QjvBN8/view?usp=sharing](https://drive.google.com/file/d/19WRKCrOULMvYqRbHiTU3MnKPn_QjvBN8/view?usp=sharing)
 
-- ⚡ Fun fact **I'm from Kolkata.**
+- ⚡ Fun fact **This gif of Blackhole is not from the internet. Made in Blender and rendered on my own computer over a span of 30 hours.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
